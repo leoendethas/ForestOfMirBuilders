@@ -10,6 +10,12 @@ This is 30 Gigigs, there are a shit ton of assets. I tried to deduplicate what I
 ==HOW TO USE==
 Simple, put the files in your NWN folders of the same name! Then launch the Toolset and open the Module file!
 
+MAKE SURE you initially create the area with a RESREF/Tag as the name then rename it to be player readable it. 
+
+Put any used RESREF/Tag on the Discord in the Area CHannel so people know what you used. IF YOU DO NOT DO THIS YOUR area001 WILL CONFLICT WITH OTHERS.
+
+Example -
+
 Once you make an area, Export it!
 
 IMPORT AND EXPORT WITHOUT RESETTING TO PARENT FACTIONS.
