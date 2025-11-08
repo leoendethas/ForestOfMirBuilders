@@ -4,10 +4,14 @@ To get the haks, you need to use the Command Line
 
 Create a folder where you want to download, and then open the command terminal to that folder.
 
+Install git large file storage
+https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
+
 Then use the command
 "gh repo clone leoendethas/ForestOfMirBuilders"
 
 This will have git clone and properly get the large files.
+This is faster than downloading via other means.
 
 ==FORWARD==
 This is the Build Module for the Foprest of Mir, it has All the haks, and none of the code. 
